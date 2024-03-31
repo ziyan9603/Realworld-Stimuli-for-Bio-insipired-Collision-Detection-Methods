@@ -26,4 +26,4 @@ Contributions:
 
 Ziyan Qin: Video shooting, video editing, and stimuli generation.
 Jiatao Li: Video shooting.
-For access to the original videos, please contact Ziyan Qin.
+For access to the original videos, please contact Ziyan Qin (email: 1112115010@e.gzhu.edu.cn).
